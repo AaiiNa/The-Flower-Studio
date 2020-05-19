@@ -1,3 +1,3 @@
 # The-Flower-Studio
 
-https://github.com/AaiiNa/The-Flower-Studio.git
+ https://aaiina.github.io/The-Flower-Studio/
